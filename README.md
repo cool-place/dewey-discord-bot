@@ -29,7 +29,7 @@ Uploading is a one and done. No more setup is required to receive notifications.
 
 ### Demo
 
-<img width="1920" height="1080" alt="deweydemorec" src="https://github.com/user-attachments/assets/549f08ba-ecd2-4d4a-ae85-24906f2eb2b7" />
+<img width="800" height="709" alt="deweydemorec-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/e1a10c59-2a69-4c48-9feb-2bdcf192546b" />
 
 ## Syllabus Uploads
 
